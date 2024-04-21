@@ -27,9 +27,9 @@ parser.add_argument('--resume', default='checkpoint', type=str, metavar='PATH',
                     help='path to checkpoint (default: none)')
 parser.add_argument('--epochs', default=50, type=int, metavar='N', 
                     help='total epochs')
-parser.add_argument('--data_path_img',
+parser.add_argument('--data_path_img',default="data\\Bijie\\image\\",
                     type=str, metavar='data', help='path to dataset')
-parser.add_argument('--data_path_label',
+parser.add_argument('--data_path_label',default="data\\Bijie\label\\",
                     type=str, metavar='data', help='path to dataset')
 args = parser.parse_args(args=[])
 
