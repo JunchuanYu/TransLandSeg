@@ -20,11 +20,11 @@ Refer to our [paper](http://arxiv.org/abs/2403.10127) for more details.
 * **[2024.4.20]** Code realease.
 
 ## Dataset
-* [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022): contains 3799 training samples.
+* [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022): contains 3799 training samples.The preprocessing of the Landslide4Sense can refer to the official demo.
 * [Bijie Landslide dataset](http://gpcv.whu.edu.cn/data/Bijie_pages.html): contains 770 landslide images within Bijie City in northwestern Guizhou Province, China. 
   + Save the file in your download directory:
     + `/data/{Bijie,Landslide4Sense}/{image,label}`
-
+* You can also directly download our preprocessed data.  [Baidu Disk](https://pan.baidu.com/s/1tnEDftda7akRnM9ZoO0CZA?pwd=0an5)     [Google drive](https://drive.google.com/drive/folders/1VCEezA6e5h49MtFOmRA33z7pQnzFKWHy?usp=sharing)
 ## Code
 ![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/pic1.jpg)
 
@@ -32,11 +32,11 @@ Structure of the proposed TransLandSeg and Segment Anything Model (SAM)
 
 Click the links below to download the checkpoint for the corresponding model type.
 
-- `ViT-L SAM model`: [ViT-L SAM model.](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth)
+- `ViT-L SAM model`: [Official Link](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth)
   + Save the file in your download directory:
     + `/pretrained/sam_vit_l_0b3195.pth`
 
-- `TransLandSeg model`: [TransLandSeg model.](https://pan.baidu.com/s/1ipFqbnh1VqkAqZaGY9v80A?pwd=93g6)
+- `TransLandSeg model`: [Baidu Disk](https://pan.baidu.com/s/1pUM40a4dJ_BS0rmMmHgXmA?pwd=f58e)  [Google drive](https://drive.google.com/drive/folders/1Siy_98g0FZ4XNJSUb2XoaIeW2_dwYqVS?usp=sharing)
   + Save the file in your download directory:
     + `/checkpoint/{Bijie.pth.tar,Landslide4Sense.pth.tar}`
 
