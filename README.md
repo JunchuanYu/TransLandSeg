@@ -17,7 +17,7 @@ Refer to our [paper](http://arxiv.org/abs/2403.10127) for more details.
 ## Updates
 * **[2024.3.3]** Paper submission. 
 * **[2024.3.15]** Dataset uploaded.
-* **[2024.4.20]** Code realease.
+* **[2024.4.20]** Demo code realease.
 
 ## Dataset
 * [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022): contains 3799 training samples.The preprocessing of the Landslide4Sense can refer to the official demo.
