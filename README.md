@@ -7,7 +7,7 @@ Foundation Model**</font>
 
 Changhong Hou, [Junchuan Yu☨](https://github.com/JunchuanYu), Daqing Ge, Liu Yang, Laidian Xi, Yunxuan Pang, and Yi Wen
 
-☨corresponding author
+☨corresponding author: yujunchuan@mail.cgs.gov.cn
 
 Refer to our [paper](http://arxiv.org/abs/2403.10127) for more details.
 
@@ -17,7 +17,7 @@ Refer to our [paper](http://arxiv.org/abs/2403.10127) for more details.
 ## Updates
 * **[2024.3.3]** Paper submission. 
 * **[2024.3.15]** Dataset uploaded.
-* **[2024.4.20]** Demo code realease.
+* **[2024.4.20]** Code realease.
 
 ## Dataset
 * [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022): contains 3799 training samples.The preprocessing of the Landslide4Sense can refer to the official demo.
